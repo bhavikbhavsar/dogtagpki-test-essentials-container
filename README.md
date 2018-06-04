@@ -1,5 +1,5 @@
 # DogtagPKI test essentials container
-Container with all essentials libraries to run dogtagPKI tests.
+Container with all essentials libraries to run DogtagPKI tests.
 
 Majorly consists of libraries as below:
 1. pytest
